@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "contato.html",
+			"settings":
+			{
+				"buffer_size": 1189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					8,
+					"left_delete",
+					null,
+					"CAAAACECAAAAAAAAIQIAAAAAAAABAAAAPiACAAAAAAAAIAIAAAAAAAABAAAAZx8CAAAAAAAAHwIAAAAAAAABAAAAbh4CAAAAAAAAHgIAAAAAAAABAAAAbx0CAAAAAAAAHQIAAAAAAAABAAAAchwCAAAAAAAAHAIAAAAAAAABAAAAdBsCAAAAAAAAGwIAAAAAAAABAAAAcxoCAAAAAAAAGgIAAAAAAAABAAAAPA",
+					"AQAAAAAAAAABAAAAIgIAAAAAAAAiAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					10,
+					"left_delete",
+					null,
+					"CgAAAC4CAAAAAAAALgIAAAAAAAABAAAAPi0CAAAAAAAALQIAAAAAAAABAAAAZywCAAAAAAAALAIAAAAAAAABAAAAbisCAAAAAAAAKwIAAAAAAAABAAAAbyoCAAAAAAAAKgIAAAAAAAABAAAAcikCAAAAAAAAKQIAAAAAAAABAAAAdCgCAAAAAAAAKAIAAAAAAAABAAAAcycCAAAAAAAAJwIAAAAAAAABAAAALyYCAAAAAAAAJgIAAAAAAAABAAAAPCUCAAAAAAAAJQIAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAALwIAAAAAAAAvAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": "\n<"
+					},
+					"AwAAABYEAAAAAAAAFwQAAAAAAAAAAAAAFwQAAAAAAAAdBAAAAAAAAAAAAAAdBAAAAAAAAB4EAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgQAAAAAAAAWBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAB4EAAAAAAAAHwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgQAAAAAAAAeBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					1,
+					"insert_completion",
+					{
+						"completion": "form>$0</form>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "form"
+					},
+					"AgAAAB4EAAAAAAAAHgQAAAAAAAABAAAAZh4EAAAAAAAAKgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwQAAAAAAAAfBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					6,
+					"left_delete",
+					null,
+					"CAAAACIEAAAAAAAAIgQAAAAAAAABAAAAPiEEAAAAAAAAIQQAAAAAAAABAAAAbSAEAAAAAAAAIAQAAAAAAAABAAAAch8EAAAAAAAAHwQAAAAAAAABAAAAbx4EAAAAAAAAHgQAAAAAAAABAAAAZh0EAAAAAAAAHQQAAAAAAAABAAAAPBcEAAAAAAAAFwQAAAAAAAAGAAAACQkgICAgFwQAAAAAAAAZBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwQAAAAAAAAjBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": "\n<h"
+					},
+					"BAAAACAEAAAAAAAAIQQAAAAAAAAAAAAAIQQAAAAAAAAjBAAAAAAAAAAAAAAjBAAAAAAAACQEAAAAAAAAAAAAACQEAAAAAAAAJQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAQAAAAAAAAgBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					180,
+					1,
+					"insert_completion",
+					{
+						"completion": "hr>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "hr"
+					},
+					"AgAAACQEAAAAAAAAJAQAAAAAAAABAAAAaCQEAAAAAAAAJwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQQAAAAAAAAlBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					3,
+					"left_delete",
+					null,
+					"AwAAACYEAAAAAAAAJgQAAAAAAAABAAAAPiUEAAAAAAAAJQQAAAAAAAABAAAAciQEAAAAAAAAJAQAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAAJwQAAAAAAAAnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					182,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AwAAACQEAAAAAAAAKAQAAAAAAAAAAAAAIQQAAAAAAAAhBAAAAAAAAAIAAAAJCSEEAAAAAAAAIgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAQAAAAAAAAkBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					183,
+					1,
+					"insert",
+					{
+						"characters": "hr"
+					},
+					"AgAAACcEAAAAAAAAKAQAAAAAAAAAAAAAKAQAAAAAAAApBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwQAAAAAAAAnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					184,
+					5,
+					"left_delete",
+					null,
+					"BwAAACgEAAAAAAAAKAQAAAAAAAABAAAAcicEAAAAAAAAJwQAAAAAAAABAAAAaCYEAAAAAAAAJgQAAAAAAAABAAAAPiEEAAAAAAAAIQQAAAAAAAABAAAACSEEAAAAAAAAIwQAAAAAAAAAAAAAJgQAAAAAAAAmBAAAAAAAAAEAAAByJQQAAAAAAAAlBAAAAAAAAAEAAAB0",
+					"AQAAAAAAAAABAAAAKQQAAAAAAAApBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					185,
+					1,
+					"insert",
+					{
+						"characters": "ht"
+					},
+					"AgAAACUEAAAAAAAAJgQAAAAAAAAAAAAAJgQAAAAAAAAnBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQQAAAAAAAAlBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"left_delete",
+					null,
+					"AQAAACYEAAAAAAAAJgQAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAJwQAAAAAAAAnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					187,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAACYEAAAAAAAAJwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgQAAAAAAAAmBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					188,
+					1,
+					"left_delete",
+					null,
+					"AQAAACYEAAAAAAAAJgQAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAJwQAAAAAAAAnBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					189,
+					1,
+					"insert",
+					{
+						"characters": "r>"
+					},
+					"BAAAACYEAAAAAAAAJwQAAAAAAAAAAAAAJwQAAAAAAAAoBAAAAAAAAAAAAAAhBAAAAAAAACEEAAAAAAAAAgAAAAkJIQQAAAAAAAAiBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgQAAAAAAAAmBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "projeto final html.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/wmais/OneDrive/Área de Trabalho/Curso Udemy/Desenvolvimento Web/html5/Projeto Final HTML"
+	],
+	"file_history":
+	[
+		"/C/Users/wmais/OneDrive/Área de Trabalho/Curso Udemy/Desenvolvimento Web/html5/Projeto Final HTML/contatos.html",
+		"/C/Users/wmais/OneDrive/Área de Trabalho/Curso Udemy/Desenvolvimento Web/html5/Projeto Final HTML/projeto final html.sublime-workspace",
+		"/C/Users/wmais/OneDrive/Área de Trabalho/ProjetoWeb/Primeiro Projeto/Projeto.html",
+		"/C/Users/wmais/OneDrive/Área de Trabalho/Curso Udemy/Desenvolvimento Web/html5/Projeto Final HTML/quem-somos.html",
+		"/C/Users/wmais/OneDrive/Área de Trabalho/ProjetoWeb/Projeto Web/index.html",
+		"/C/Users/wmais/OneDrive/Área de Trabalho/ProjetoWeb/Projeto Aula/index.html",
+		"/C/Users/wmais/OneDrive/Área de Trabalho/ProjetoWeb/Projeto Aula/css/estilo.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "contato.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 77.6,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "projeto final html.sublime-project",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projeto final html.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
